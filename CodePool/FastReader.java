@@ -1,4 +1,4 @@
-package CodePool.CodePool;
+package CodePool;
 
 import java.io.BufferedReader;
 import java.io.IOException;

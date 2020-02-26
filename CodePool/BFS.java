@@ -1,5 +1,5 @@
 
-package CodePool.CodePool;
+package CodePool;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

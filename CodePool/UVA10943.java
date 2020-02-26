@@ -1,4 +1,4 @@
-package CodePool.CodePool;
+package CodePool;
 
 import java.util.Scanner;
 
